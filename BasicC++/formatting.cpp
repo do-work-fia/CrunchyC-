@@ -1,4 +1,4 @@
-// u always want to show urself as a queen? formatting is kind of makeup for program
+// u always want to shows yourself as a queen? formatting is kind of makeup for program
 //syntax is : cout << "anything :"" << grade;
 #include <iostream>
 using namespace std;
