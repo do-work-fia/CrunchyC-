@@ -1,12 +1,7 @@
 #include <iostream>
 using namespace std;
-
-int main(){
-
-  int crushCount = 4;
-
-
-  cout<<crushCount;
-  return 0;
-}
-  
+ int main(){
+int countCrush = 6;
+cout <<"countCrush";
+return 0;
+ }
